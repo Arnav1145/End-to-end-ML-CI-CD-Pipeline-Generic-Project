@@ -64,4 +64,4 @@ jobs:
         with:
           app-name: 'studentperformanceappcicdpipeline'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_77D28EE5627743999C01B35C6C45AD06 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_1ADA8C03BBE54337A910B2D7E236E37E }}
